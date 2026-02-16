@@ -1,0 +1,2 @@
+# dotfiles
+kitty-conf
